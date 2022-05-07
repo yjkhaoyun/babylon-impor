@@ -1,0 +1,43 @@
+# MTL written from /Volumes/DiskDurPlus/Modeles3D/Models en vente/UFO/ufo.obj
+newmtl PLots
+Kd 0.8 0.8 0.8
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.2 0.2 0.2
+newmtl Top
+Kd 0.8 0.8 0.8
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.2 0.2 0.2
+newmtl gris
+Kd 0.8 0.8 0.8
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.2 0.2 0.2
+newmtl inox
+Kd 0.8 0.8 0.8
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.2 0.2 0.2
+newmtl lumiere
+Kd 0.8 0.8 0.8
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.2 0.2 0.2
+newmtl red
+Kd 0.8 0.8 0.8
+Ns 256
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.2 0.2 0.2
